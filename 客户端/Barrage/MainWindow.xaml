@@ -1,0 +1,13 @@
+﻿<Window x:Class="Barrage.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        Topmost="True"
+        Focusable="False"
+        Background="{x:Null}"
+        Loaded="Window_Loaded"
+        WindowStyle="None"
+        AllowsTransparency="True">
+    <Canvas Name="canvas">
+        
+    </Canvas>
+</Window>

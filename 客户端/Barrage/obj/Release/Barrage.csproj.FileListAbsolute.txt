@@ -1,0 +1,11 @@
+C:\Users\ZDNF\Desktop\Barrage\Barrage\bin\Release\Barrage.exe
+C:\Users\ZDNF\Desktop\Barrage\Barrage\bin\Release\Barrage.pdb
+C:\Users\ZDNF\Desktop\Barrage\Barrage\obj\Release\MainWindow.baml
+C:\Users\ZDNF\Desktop\Barrage\Barrage\obj\Release\MainWindow.g.cs
+C:\Users\ZDNF\Desktop\Barrage\Barrage\obj\Release\App.g.cs
+C:\Users\ZDNF\Desktop\Barrage\Barrage\obj\Release\Barrage_MarkupCompile.cache
+C:\Users\ZDNF\Desktop\Barrage\Barrage\obj\Release\Barrage.g.resources
+C:\Users\ZDNF\Desktop\Barrage\Barrage\obj\Release\Barrage.Properties.Resources.resources
+C:\Users\ZDNF\Desktop\Barrage\Barrage\obj\Release\Barrage.csproj.GenerateResource.Cache
+C:\Users\ZDNF\Desktop\Barrage\Barrage\obj\Release\Barrage.exe
+C:\Users\ZDNF\Desktop\Barrage\Barrage\obj\Release\Barrage.pdb
